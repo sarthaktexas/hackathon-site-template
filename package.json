@@ -1,5 +1,6 @@
 {
   "name": "hackathon-site-template",
+  "author": "Sarthak Mohanty<sarthak@sarthakmohanty.me>",
   "version": "0.1.0",
   "private": true,
   "scripts": {

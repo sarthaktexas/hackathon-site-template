@@ -1,0 +1,77 @@
+{
+    "head": {
+        "title": "ShelburneHacks",
+        "description": "A 24-hour hackathon in Shelburne, VT!",
+        "image": null
+    },
+    "body": {
+        "nav": {
+            "logo": "/logo.png",
+            "links": [
+                { "href": "/register", "name": "Register" }
+            ]
+        },
+        "hero": {
+            "heading": "ShelburneHacks",
+            "subheading": "24 hours of fun and code"
+        },
+        "section": {
+            "heading": "Learn how to code and make something crazy! Meet others virtually and earn insanely cool prizes like **AirPods** in the process",
+            "subheading": null
+        },
+        "faq": [
+            ["question 1", "answer 1"],
+            ["question 2", "answer 2"],
+            ["question 3", "answer 3"],
+            ["question 4", "answer 4"],
+            ["question 5", "answer 5"],
+            ["question 6", "answer 6"],
+            ["question 7", "answer 7"],
+            ["question 8", "answer 8"],
+            ["question 9", "answer 9"]
+        ],
+        "prizes": [
+            ["category 1", "prize 1"],
+            ["category 2", "prize 2"],
+            ["category 3", "prize 3"],
+            ["category 4", "prize 4"],
+            ["category 5", "prize 5"],
+            ["category 6", "prize 6"],
+            ["category 7", "prize 7"],
+            ["category 8", "prize 8"],
+            ["category 9", "prize 9"]
+        ],
+        "sponsors": [
+            ["image 1", "alt tag"],
+            ["image 2", "alt tag"],
+            ["image 3", "alt tag"],
+            ["image 4", "alt tag"],
+            ["image 5", "alt tag"],
+            ["image 6", "alt tag"],
+            ["image 7", "alt tag"],
+            ["image 8", "alt tag"],
+            ["image 9", "alt tag"],
+            ["image 10", "alt tag"]
+        ],
+        "judges": [
+            ["Sarthak Mohanty", "/sarthak.jpg", "Most likely to fail in life :)"],
+            ["Lachlan Campbell", "/lachlan.jpg", "Most likely to lead Design at Apple"],
+            ["Zach Latta", "/zach.jpg", "Most likely to be on Forbes"],
+            ["Matthew Stanciu", "/matthew.jpg", "Most likely to host a late-night show"],
+            ["Ben Aubin", "/ben.jpg", "Most likely to be the next Bill Gates"],
+            ["Charlie Welsh", "/charlie.jpg", "Most likely to be a world leader"],
+            ["Claire Wang", "/claire.jpg", "Most likely to make friends with aliens"]
+        ],
+        "team": [
+            ["Nihal Abbu", "/nihal.jpg", "Most likely to be on Ellen for helping so many nonprofits"],
+            ["Hugo Hu", "/hugo.jpg", "Most likely to get the Guinness World Record for most stickers"],
+            ["Safin Singh", "/safin.jpg", "Most likely to be late with food"],
+            ["Linus Skucas", "/linus.jpg", "Most likely to code software the entire world uses in a language nobody else knows"],
+            ["Benjamin Ashbaugh", "/benjamin.jpg", "Most likely to win the lottery but lose the ticket"],
+            ["Damian Musk", "/damian.jpg", "Most likely to discover what's *actually* at the end of a rainbow"],
+            ["Max Wofford", "/max.jpg", "Most likely to be a model"],
+            ["Rishi Kothari", "/rishi.jpg", "Most likely to get a tattoo of a waffle"],
+            ["Caleb Denio", "/caleb.jpg", "Most likely to be *that* teacher that everybody likes"]
+        ]
+    }
+}
